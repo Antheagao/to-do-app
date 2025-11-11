@@ -1,0 +1,78 @@
+# .NET Core/ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Node.js/Vite
+node_modules/
+dist/
+dist-ssr/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Docker
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.dockerignore
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# macOS
+*.DS_Store
+
+# Ignore any build output (customize if needed)
+build/
+out/
+
+# Ignore secrets or sensitive files (add specific names if applicable)
+secrets.json
+appsettings.Development.json
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+*.dll
+*.pdb
+
+
+# Build artifacts
+*.deps.json
+*.runtimeconfig.json
+*.pdb
+web.config
+**/AssemblyInfo.cs
+**/GeneratedMSBuildEditorConfig.editorconfig
+backend/Todo.Api/publish/appsettings.json
+backend/Todo.Api/publish/Todo.Api.staticwebassets.endpoints.json
+backend/Todo.Api/obj/Debug/net9.0/Todo.Api.AssemblyInfoInputs.cache
+backend/Todo.Api/obj/Debug/net9.0/Todo.Api.GeneratedMSBuildEditorConfig.editorconfig
+backend/Todo.Api/obj/Debug/net9.0/Todo.Api.AssemblyInfo.cs
+backend/Todo.Api/obj/Debug/net9.0/Todo.Api.AssemblyInfo.cs

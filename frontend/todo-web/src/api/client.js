@@ -1,5 +1,7 @@
 import axios from "axios";
-export const api = axios.create({ baseURL: "http://localhost:5205/api" });
+
+// use your EB URL (HTTPS) + /api
+export const api = axios.create({ baseURL: import.meta.env.VITE_API_URL });
 
 const t = localStorage.getItem("token");
 if (t) api.defaults.headers.common.Authorization = `Bearer ${t}`;

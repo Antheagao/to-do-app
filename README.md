@@ -40,3 +40,38 @@ A modern, dark-themed task manager with secure sign-in, due dates/times, urgency
 
 ## 📸 Screenshots
 
+<!-- Home -->
+<img src="./screenshots/todo-home.png" width="1000" alt="Home - Task grid with cards">
+<em>Home — task grid with cards, dark UI</em>
+<br><br>
+
+<!-- Sign Up -->
+<img src="./screenshots/todo-signup.png" width="1000" alt="Sign Up page">
+<em>Sign Up — create an account</em>
+<br><br>
+
+<!-- Sign In -->
+<img src="./screenshots/todo-signin.png" width="1000" alt="Sign In page">
+<em>Sign In — secure login</em>
+<br><br>
+
+<!-- Create Task -->
+<img src="./screenshots/todo-create-tasks.png" width="1000" alt="Create Task form">
+<em>Create Task — title, description, due date/time, urgency</em>
+<br><br>
+
+<!-- View Task -->
+<img src="./screenshots/todo-view-tasks.png" width="1000" alt="View Task details">
+<em>View Task — details and metadata</em>
+<br><br>
+
+<!-- Edit Task -->
+<img src="./screenshots/todo-edit-tasks.png" width="1000" alt="Edit Task form">
+<em>Edit Task — update fields and save</em>
+<br><br>
+
+<!-- Tasks (list) -->
+<img src="./screenshots/to-tasks.png" width="1000" alt="Tasks list view">
+<em>Tasks — list view with sorting and filtering</em>
+<br><br>
+

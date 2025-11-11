@@ -38,20 +38,5 @@ A modern, dark-themed task manager with secure sign-in, due dates/times, urgency
 
 ---
 
-## 🗂️ Repository Structure
-
-to-do-app/
-├─ frontend/ # React app (Vite)
-│ ├─ public/
-│ └─ src/
-│ ├─ api/ # axios client
-│ ├─ pages/ # Login, Signup, Home
-│ └─ components/ # Header, Footer, TaskCard, etc.
-└─ backend/
-└─ Todo.Api/ # ASP.NET Core Web API
-├─ Controllers/
-├─ Data/
-├─ Models/
-└─ Program.cs
-
 ## 📸 Screenshots
+

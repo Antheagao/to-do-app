@@ -76,3 +76,6 @@ backend/Todo.Api/obj/Debug/net9.0/Todo.Api.AssemblyInfoInputs.cache
 backend/Todo.Api/obj/Debug/net9.0/Todo.Api.GeneratedMSBuildEditorConfig.editorconfig
 backend/Todo.Api/obj/Debug/net9.0/Todo.Api.AssemblyInfo.cs
 backend/Todo.Api/obj/Debug/net9.0/Todo.Api.AssemblyInfo.cs
+
+# Publish output (large binaries were once committed by mistake)
+publish/
